@@ -9,7 +9,7 @@ The main focus was not on the design, but for me to practice fetching data from 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://dank1368.github.io/weather_app/)
+- Live Site URL: [Click Here](https://dank1368.github.io/weather_app/)
 
 ### What I learned
 
